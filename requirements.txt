@@ -1,0 +1,13 @@
+branca==0.8.1
+folium==0.19.5
+geopandas==1.0.1
+matplotlib==3.10.1
+numpy==2.2.4
+pandas==2.2.3
+plotly==6.0.1
+Requests==2.32.3
+scikit_learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
+streamlit==1.44.0
+streamlit_folium==0.24.0
